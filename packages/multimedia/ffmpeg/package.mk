@@ -117,7 +117,6 @@ configure_target() {
               --enable-ffprobe \
               --disable-ffplay \
               --disable-ffserver \
-              --enable-ffmpeg \
               --enable-avdevice \
               --enable-avcodec \
               --enable-avformat \
